@@ -1,0 +1,2 @@
+# Neural-Network-for-Predicting-Stock-Market-Trends
+Python along with open source library Tensorflow were used to create a neural network for the purpose of predicting stock market trends. Implemented a simple MLP network in order to predict stock market trends. This network uses three hidden layers and a Sigmoid activation function  to successfully train the inputed closing data. The hidden layers contain 128 nodes, 64 nodes, and 8 nodes while using the k-fold cross validation to train the data.
